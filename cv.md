@@ -6,7 +6,7 @@
 ## Contact information
 + **Location:** Krasnoyarsk, Russia
 + **Email address:** polinaastrus@gmail.com
-+ **GitHub:** polinastrus
++ **GitHub:** PolinaStrus
 ## About me
 Currently I am getting a degree in Economics, Siberian Federal University. I'm an enthusiastic Frontend Developer seeking an entry-level position with Company to use my skills.
 ## Skills
