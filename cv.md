@@ -1,5 +1,7 @@
 # Polina Strus
 # **Junior Frontend Developer**
+## Personal info
++ **Age**: 23 years
 
 ## Contact information
 + **Location:** Krasnoyarsk, Russia
